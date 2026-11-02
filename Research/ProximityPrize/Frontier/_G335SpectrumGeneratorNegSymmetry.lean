@@ -50,7 +50,7 @@ open Finset
 
 namespace ArkLib.ProximityGap.Frontier.G335SpectrumGeneratorNegSymmetry
 
-open ArkLib.ProximityGap.KKH26 Polynomial
+open ArkLib.ProximityGap.KKH26
 
 /-- The signed coefficient of a signed datum `(U, T)`: `+1` on `T`, `-1` on `U \ T`, `0`
 off the support `U`.  (Same object as `G330SpectrumExactBoundary.sigCoeff`, restated
